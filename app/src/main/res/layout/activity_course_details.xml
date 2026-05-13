@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- COURSE IMAGE -->
+
+        <ImageView
+            android:id="@+id/detailsImage"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/coding"/>
+
+        <!-- COURSE NAME -->
+
+        <TextView
+            android:id="@+id/detailsName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Course Name"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:layout_marginTop="12dp"/>
+
+        <!-- CATEGORY -->
+
+        <TextView
+            android:id="@+id/detailsCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Category"
+            android:textSize="18sp"
+            android:layout_marginTop="8dp"/>
+
+        <!-- LOCATION -->
+
+        <TextView
+            android:id="@+id/detailsLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Location"
+            android:textSize="18sp"
+            android:layout_marginTop="8dp"/>
+
+        <!-- DURATION -->
+
+        <TextView
+            android:id="@+id/detailsDuration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Duration"
+            android:textSize="18sp"
+            android:layout_marginTop="8dp"/>
+
+        <!-- ELIGIBILITY -->
+
+        <TextView
+            android:id="@+id/detailsEligibility"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eligibility"
+            android:textSize="18sp"
+            android:layout_marginTop="8dp"/>
+
+        <!-- APPLY BUTTON -->
+
+        <Button
+            android:id="@+id/btnApplyNow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Apply Now"
+            android:layout_marginTop="20dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

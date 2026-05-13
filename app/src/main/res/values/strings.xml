@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">NammaSkill</string>
+
+    <string name="course_name">Course Name</string>
+    <string name="category">Category</string>
+    <string name="location">Location</string>
+    <string name="apply">Apply</string>
+</resources>
