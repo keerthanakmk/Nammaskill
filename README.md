@@ -66,4 +66,4 @@ To provide a simple platform for users to explore and apply for skill developmen
 ## 👩‍💻 Developed By
 Keerthana
 
-Added complete README with screenshots
+
