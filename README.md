@@ -28,7 +28,7 @@ NAMMA-SKILL is an Android application developed using Kotlin and Firebase. It he
 ## 📸 Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/splashscreen.png)
+![Splash Screen](screenshots/screenshotssplashscreen.png)
 
 ### Home Screen
 ![Home Screen](screenshots/home.png)
