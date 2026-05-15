@@ -62,6 +62,8 @@ To provide a simple platform for users to explore and apply for skill developmen
 - Payment Integration  
 
 ---
+---
+Project updated successfully
 
 ## 👩‍💻 Developed By
 Keerthana K M
